@@ -1,6 +1,16 @@
 {
   "status": "ok",
   "controlli": [
+
+	  {
+      "data": "09/04/2020",
+      "personeControllate": "295554",
+      "personeSanzionate": "10105",
+      "personeDenunciate": "57",
+      "impreseControllate": "100488",
+      "titolariSanzionati": "132",
+      "impreseSospese": "36"
+    },
 	  {
       "data": "08/04/2020",
       "personeControllate": "286912",
