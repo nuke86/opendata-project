@@ -3,6 +3,36 @@
   "controlli": [
 
 {
+      "data": "10/05/2020",
+      "personeControllate": "147958",
+      "personeSanzionate": "2154",
+      "personeDenunciate": "23",
+      "impreseControllate": "41932",
+      "titolariSanzionati": "72",
+      "impreseSospese": "11"
+    },
+
+{
+      "data": "09/05/2020",
+      "personeControllate": "162299",
+      "personeSanzionate": "2081",
+      "personeDenunciate": "21",
+      "impreseControllate": "53643",
+      "titolariSanzionati": "178",
+      "impreseSospese": "13"
+    },
+
+{
+      "data": "08/05/2020",
+      "personeControllate": "172538",
+      "personeSanzionate": "1979",
+      "personeDenunciate": "14",
+      "impreseControllate": "63042",
+      "titolariSanzionati": "113",
+      "impreseSospese": "14"
+    },
+
+{
       "data": "07/05/2020",
       "personeControllate": "175468",
       "personeSanzionate": "1894",
