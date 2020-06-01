@@ -1,6 +1,60 @@
 {
   "status": "ok",
   "controlli": [
+{
+      "data": "30/05/2020",
+      "personeControllate": "99975",
+      "personeSanzionate": "522",
+      "personeDenunciate": "8",
+      "impreseControllate": "27291",
+      "titolariSanzionati": "32",
+      "impreseSospese": "6"
+    }
+{
+      "data": "29/05/2020",
+      "personeControllate": "102482",
+      "personeSanzionate": "362",
+      "personeDenunciate": "7",
+      "impreseControllate": "30968",
+      "titolariSanzionati": "50",
+      "impreseSospese": "7"
+    },
+{
+      "data": "28/05/2020",
+      "personeControllate": "113403",
+      "personeSanzionate": "299",
+      "personeDenunciate": "1",
+      "impreseControllate": "32799",
+      "titolariSanzionati": "33",
+      "impreseSospese": "3"
+    },
+{
+      "data": "27/05/2020",
+      "personeControllate": "114856",
+      "personeSanzionate": "355",
+      "personeDenunciate": "9",
+      "impreseControllate": "35233",
+      "titolariSanzionati": "41",
+      "impreseSospese": "1"
+    },
+{
+      "data": "26/05/2020",
+      "personeControllate": "113461",
+      "personeSanzionate": "357",
+      "personeDenunciate": "4",
+      "impreseControllate": "34590",
+      "titolariSanzionati": "24",
+      "impreseSospese": "2"
+    },
+{
+      "data": "25/05/2020",
+      "personeControllate": "120210",
+      "personeSanzionate": "406",
+      "personeDenunciate": "14",
+      "impreseControllate": "36936",
+      "titolariSanzionati": "57",
+      "impreseSospese": "10"
+    },
 
 {
       "data": "24/05/2020",
