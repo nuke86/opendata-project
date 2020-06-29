@@ -1,7 +1,98 @@
 {
   "status": "ok",
   "controlli":
-  [{
+  [
+  {
+      "data": "28/06/2020",
+      "personeControllate": "66647",
+      "personeSanzionate": "84",
+      "personeDenunciate": "0",
+      "impreseControllate": "10188",
+      "titolariSanzionati": "14",
+      "impreseSospese": "2"
+    },
+  {
+      "data": "27/06/2020",
+      "personeControllate": "68003",
+      "personeSanzionate": "47",
+      "personeDenunciate": "3",
+      "impreseControllate": "11887",
+      "titolariSanzionati": "39",
+      "impreseSospese": "10"
+    },
+  {
+      "data": "26/06/2020",
+      "personeControllate": "63437",
+      "personeSanzionate": "71",
+      "personeDenunciate": "8",
+      "impreseControllate": "11729",
+      "titolariSanzionati": "9",
+      "impreseSospese": "4"
+    },
+  {
+      "data": "25/06/2020",
+      "personeControllate": "63795",
+      "personeSanzionate": "22",
+      "personeDenunciate": "4",
+      "impreseControllate": "12589",
+      "titolariSanzionati": "6",
+      "impreseSospese": "3"
+    },
+  {
+      "data": "24/06/2020",
+      "personeControllate": "63870",
+      "personeSanzionate": "24",
+      "personeDenunciate": "4",
+      "impreseControllate": "14062",
+      "titolariSanzionati": "6",
+      "impreseSospese": "4"
+    },
+  {
+      "data": "23/06/2020",
+      "personeControllate": "66099",
+      "personeSanzionate": "21",
+      "personeDenunciate": "3",
+      "impreseControllate": "15751",
+      "titolariSanzionati": "7",
+      "impreseSospese": "5"
+    },
+  {
+      "data": "22/06/2020",
+      "personeControllate": "66837",
+      "personeSanzionate": "32",
+      "personeDenunciate": "3",
+      "impreseControllate": "14145",
+      "titolariSanzionati": "6",
+      "impreseSospese": "2"
+    },
+  {
+      "data": "21/06/2020",
+      "personeControllate": "68636",
+      "personeSanzionate": "69",
+      "personeDenunciate": "2",
+      "impreseControllate": "13548",
+      "titolariSanzionati": "19",
+      "impreseSospese": "12"
+    },
+    {
+      "data": "20/06/2020",
+      "personeControllate": "67327",
+      "personeSanzionate": "65",
+      "personeDenunciate": "1",
+      "impreseControllate": "14424",
+      "titolariSanzionati": "15",
+      "impreseSospese": "5"
+    },
+    {
+      "data": "19/06/2020",
+      "personeControllate": "69635",
+      "personeSanzionate": "109",
+      "personeDenunciate": "3",
+      "impreseControllate": "17303",
+      "titolariSanzionati": "15",
+      "impreseSospese": "3"
+    },
+  {
       "data": "18/06/2020",
       "personeControllate": "70011",
       "personeSanzionate": "39",
